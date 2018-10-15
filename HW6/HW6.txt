@@ -1,0 +1,10 @@
+//Java
+//Running with Eclipse (IDE)
+
+Change the number in the first line of main function(at the bottom) to decide the size of board.  // Queens queen = new Queens(9)
+
+Initialize a nxn board
+Use backtracking to find the suitable solution for queens.
+	if reaching the end of board 
+		check if the solution is independent by hash and rotation
+		print out the independent solution
