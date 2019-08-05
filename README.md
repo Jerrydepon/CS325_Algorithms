@@ -16,11 +16,11 @@ Recursion, Fibonacci, and big O.
 
 -------------------
 HW4: <br />
-Divide and Conquer -- 1.The tiling game   2.Find the odd coin.
+Divide and Conquer -- 1.The tiling game  &nbsp; 2.Find the odd coin.
 
 -------------------
 HW5: <br />
-Polynomial multiplication -- 1.Iterative    2.Divide and conquer    3.Fast Fourier Transform.  
+Polynomial multiplication -- 1.Iterative  &nbsp;  2.Divide and conquer  &nbsp;  3.Fast Fourier Transform.  
 
 -------------------
 HW6: <br />
